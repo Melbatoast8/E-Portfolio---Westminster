@@ -6,4 +6,8 @@ E-Portfolio
 
 A report on Lab 4: Breadboard from a Computer Architecture Course and Hmwk 5 from Operating Systems complete the goal "to attain a system level understanding of the computer." 
 
-  In Lab 4, we built a binary adder, utilized a D-latch, and illustrated certain theorums of boolean algebra. These activities involved reading datasheets for various inverters and gates and understanding processes which form the base of logic in computer hardware which allows a computer to compute.
+  In Lab 4, we built a binary adder, utilized a D-latch, and illustrated certain theorums of boolean algebra. These activities involved reading datasheets for various inverters and gates and understanding processes which form the base of logic in computer hardware and which allow a computer to compute.
+  
+  Homework 5 consists of four task-scheduling algorithms: first-come first-serve, shortest job first, priority, and round robin. These algorithms illustrate four ways in which operating systems might schedule tasks. As scheduling is critical to computer speed, it is relevant to a goal which requires an understanding of the operating system.
+  
+
